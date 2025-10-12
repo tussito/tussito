@@ -49,5 +49,3 @@ Tusso.skills.push(...frontEnd, ...backEnd, ...databases);
 
 <br>
 <hr/>
-
-Find all of my socials and resume in my [website](COMING SOON)
