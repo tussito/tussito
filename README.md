@@ -1,51 +1,63 @@
+<h1 align="center">🖥️ Hello World 🌐</h1>
+
 <h2 align="center">
-  
- 🖥Hello World🌐
-  
-</h2>
-<h2 align="center">
-    I'm
-    <img alt="popup_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/giphy.webp" width="50">
-    Brian Guiñazu
-    <img alt="dev_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_cat.gif" width="50"> 
+  I'm 
+  <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/giphy.webp" width="40" alt="hi">
+  Brian Maximiliano Guiñazu
+  <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_cat.gif" width="40" alt="cat">
 </h2>
 
-<p align="left">
-  <samp>
-    <br><br>
-    Full stack developer
-    <br><br>
-    Focusing on building beautiful
-    <br><br> 
-    & native applications...
-  </samp>
-</p>
-
-<hr/>
+<h3 align="center">Full Stack Developer • Network Technician • Cybersecurity Student</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/astro_cat.webp" width="50">
-  Me as a code... 
-  <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_boy.gif" width="50">
+  Building systems, networks and digital solutions that actually work 🚀
 </p>
 
-```javascript
-import { Tusso } from "Awesome";
+<p align="center">
+  <a href="https://github.com/tussito">
+    <img src="https://img.shields.io/badge/GitHub-tussito-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://www.instagram.com/maxi.gui">
+    <img src="https://img.shields.io/badge/Instagram-@maxi.gui-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://wa.me/5492614711660">
+    <img src="https://img.shields.io/badge/WhatsApp-Contactame-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+</p>
 
-const frontEnd = ["React", "Redux", "CSS", "HTML", "JavaScript", "Java"];
-const backEnd = ["NodeJs", "Express"];
-const databases = ["PostgreSQL", "Sequelize", "MySQL"];
+---
 
-Tusso.skills.push(...frontEnd, ...backEnd, ...databases);
-```
+## 👨‍💻 About Me
 
-<hr/>
-<h3>Statistical Data :</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Tusso&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="Tusso" 
-    bg_color=#808080/></p>
-<br>
+```yaml
+name: Brian Maximiliano Guiñazu
+alias: Tusso
+location: Argentina
 
-<br>
-<hr/>
+role:
+  - Full Stack Developer
+  - IT Analyst
+  - Network Administrator
+
+education:
+  - Técnico Superior en Redes Informáticas
+  - Estudiante de Tecnicatura Superior en Seguridad Informática
+
+current_focus:
+  - Desarrollo de sistemas a medida
+  - Automatización de procesos
+  - Infraestructura y redes
+  - Seguridad informática
+  - Soluciones web para negocios y empresas
+
+stack_favorite:
+  - React
+  - Node.js
+  - PHP
+  - MySQL
+
+personality:
+  - Emprendedor
+  - Apasionado por la tecnología
+  - Orientado a resultados
+  - Siempre aprendiendo algo nuevo
