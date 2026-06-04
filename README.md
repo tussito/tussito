@@ -3,7 +3,7 @@
 <h2 align="center">
   I'm 
   <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/giphy.webp" width="40" alt="hi">
-  Brian Maximiliano Guiñazu
+  Brian Guiñazu
   <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_cat.gif" width="40" alt="cat">
 </h2>
 
