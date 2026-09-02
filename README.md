@@ -41,7 +41,7 @@ role:
 
 education:
   - Técnico Superior en Redes Informáticas
-  - Estudiante de Tecnicatura Superior en Seguridad Informática
+  - Técnico Superior en Seguridad Informática
 
 current_focus:
   - Desarrollo de sistemas a medida
