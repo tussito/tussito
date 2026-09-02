@@ -7,7 +7,7 @@
   <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_cat.gif" width="40" alt="cat">
 </h2>
 
-<h3 align="center">Full Stack Developer • Network Technician • Cybersecurity Student</h3>
+<h3 align="center">Full Stack Developer • Network Technician • Cybersecurity Specialist</h3>
 
 <p align="center">
   Building systems, networks and digital solutions that actually work 🚀
